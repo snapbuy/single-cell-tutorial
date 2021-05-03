@@ -15,3 +15,5 @@ Here we detail which versions of scanpy and other tools are required to run the 
 | Bioconductor | 3.8                     |
 | Scipy        | >= 1.3.0                |
 | Statsmodels  | >= 0.10rc2              |
+
+
